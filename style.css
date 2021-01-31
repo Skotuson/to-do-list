@@ -1,0 +1,41 @@
+#textInput{
+    position: absolute;
+    left: 5%;
+    top:2%;
+    width: 40%;
+    height: 4%;
+    font-size: 32px;
+    border: black 2px solid;
+}
+
+#bttn{
+    position: absolute;
+    left: 50%;
+    top: 2%;
+    width: 4%;
+    height: 4.5%;
+    border: black 2px solid;
+    font-size: 32px;
+}
+
+#bttn:hover{
+    background-color: rgb(126 , 249, 255);
+}
+
+#list{
+    position: absolute;
+    border: red solid 2px;
+    top: 12%;
+    left: 7%;
+    width: 70%;
+    min-height: 70%;
+    height: auto;
+    font-size: 36px;
+    padding: 20px;
+    border: black 2px solid;
+}
+
+#deleteBttn{
+    margin-left: 15px;
+    border: 2px solid black;
+}
